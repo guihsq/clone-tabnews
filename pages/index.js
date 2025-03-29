@@ -41,7 +41,7 @@ export default function Home() {
         <p>
           Agora é só aguentar a cobrança da família: <br />
           <span className="font-semibold text-pink-600">
-            “E o concurso?, Não vai prestas OAB?”
+            “E o concurso?, Não vai prestar OAB?”
           </span>
         </p>
 
