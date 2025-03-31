@@ -35,9 +35,7 @@ export default function Home() {
       </div>
 
       <div className="bg-white rounded-2xl shadow-xl p-6 max-w-md text-gray-800 text-base space-y-3">
-        <p>
-          Que venham os boletos da vida adulta! 💸
-        </p>
+        <p>Que venham os boletos da vida adulta! 💸</p>
         <p>
           Agora é só aguentar a cobrança da família: <br />
           <span className="font-semibold text-pink-600">
@@ -54,7 +52,7 @@ export default function Home() {
       </div>
 
       <footer className="mt-10 text-sm text-gray-500">
-        Feito com  deboche ❤️ por Guilherme Queiroz
+        Feito com deboche ❤️ por Guilherme Queiroz
       </footer>
     </div>
   );
